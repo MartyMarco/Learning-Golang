@@ -28,5 +28,5 @@ Il valore dell'area del rettangolo è  200
 
 ## Note personali
 
-> Ho scelto di richiedere i due valori con un unico `fmt.Scan()` invece di due prompt separati come nell'esempio del professore.
+> Ho scelto di richiedere i due valori con un unico `fmt.Scan()` invece di due prompt separati.
 > Le variabili `Area` e `Perimetro` sono dichiarate con la prima lettera maiuscola: in Go questa è la convenzione per i nomi pubblici (esportati da un package). All'interno di `main` è più idiomatico usarle in minuscolo — da tenere a mente nei prossimi esercizi.
