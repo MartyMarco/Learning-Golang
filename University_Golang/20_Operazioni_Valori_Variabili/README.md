@@ -10,7 +10,7 @@ Scrivere un programma che, dopo aver letto da standard input un numero intero n,
 ## Esecuzione
 
 ```bash
-go run 20_Operazioni_Valori_Variabili.go
+go run operazioni_valori_variabili.go
 ```
 
 ## Esempio di output
