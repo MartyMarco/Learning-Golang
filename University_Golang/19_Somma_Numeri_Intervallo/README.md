@@ -6,7 +6,7 @@ Scrivere un programma che legga da standard input due numeri interi a e b e stam
 ## Esecuzione
 
 ```bash
-go run sommaintervallo.go
+go run somma_numeri_intervallo.go
 ```
 
 ## Esempio di output
