@@ -1,4 +1,4 @@
-# 18 - Tabelline
+# 18 - Tabellina
 
 ## Testo dell'esercizio
 Scrivere un programma che, dopo aver richiesto all'utente di inserire un numero intero n, stampi a video la corrispondente tabellina moltiplicando n per i numeri naturali da 1 a 10.
@@ -6,7 +6,7 @@ Scrivere un programma che, dopo aver richiesto all'utente di inserire un numero 
 ## Esecuzione
 
 ```bash
-go run tabelline.go
+go run tabellina.go
 ```
 
 ## Esempio di output
