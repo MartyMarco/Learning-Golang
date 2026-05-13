@@ -7,10 +7,10 @@
 
 Repository che documenta il mio percorso di apprendimento del linguaggio **Go (Golang)**.
 
-## 💻 Chi sono
+## ☁️ Chi sono
 Sono Martina Marcolini, studentessa di Informatica all'Università degli Studi di Milano. Questo repo nasce per tenere traccia dei miei progressi, ragionare sulle soluzioni e costruire nel tempo un riferimento personale su ciò che imparo.
 
-## 💻 Struttura del repository
+## ☁️ Struttura del repository
 
 ```
 Learning-Golang/
@@ -18,7 +18,7 @@ Learning-Golang/
 └── Exercism_Golang/       ← esercizi della piattaforma Exercism (prossimamente)
 ```
 
-## 💻 Come sono organizzati gli esercizi
+## ☁️ Come sono organizzati gli esercizi
 
 Ogni esercizio ha la propria cartella numerata con il seguente contenuto:
 
@@ -30,7 +30,7 @@ XX_Nome_Esercizio/
 
 Nelle note personali documento sempre il mio ragionamento: se ho trovato più approcci, spiego le differenze e perché uno è migliore dell'altro.
 
-## 💻 Argomenti affrontati finora
+## ☁️ Argomenti affrontati finora
 
 | # | Esercizio | Argomenti chiave |
 |---|-----------|-----------------|
@@ -69,6 +69,6 @@ Nelle note personali documento sempre il mio ragionamento: se ho trovato più ap
 | 33 | Parola Palindroma | `[]rune` per Unicode, flag booleano, `break` al primo mismatch |
 | 34 | Triangoli Rettangoli | `strings.Repeat`, divide et impera, separazione in parti logiche |
 
-## 💻 Stack
+## ☁️ Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
