@@ -3,7 +3,7 @@
 </p>
 <div align>
   
-# Learning-Golang
+# LEARNING GOLANG
 
 Repository che documenta il mio percorso di apprendimento del linguaggio **Go (Golang)**.
 
