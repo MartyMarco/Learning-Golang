@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="golang_imag.png" width="100%" />
+  <img src="golang_imag2.png" width="100%" />
 </p>
 <div align="center">
   
