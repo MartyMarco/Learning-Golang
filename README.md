@@ -54,6 +54,20 @@ Nelle note personali documento sempre il mio ragionamento: se ho trovato più ap
 | 18 | Tabelline | primo ciclo `for` |
 | 19 | Somma Pari in Intervallo | swap idiomatico `a, b = b, a`, `i += 2`, principio DRY |
 | 20 | Operazioni su N Valori | scope delle variabili, `return` anticipato, min/max con primo valore |
+| 21 | Media Aritmetica Sequenza | `for` infinito, `break`, accumulatore con stop su valore sentinella |
+| 22 | Indovina il Numero | `math/rand`, `time`, generazione numeri casuali moderna |
+| 23 | FizzBuzz Sequenza | `for` con contatore, gestione spazio finale |
+| 24 | Divisori Propri | ciclo da 1 a n-1, chiamate I/O ottimizzate |
+| 25 | Operazioni tra Due Numeri | esercizio riepilogativo, potenza con ciclo e `math.Pow` |
+| 26 | Sequenza Crescente/Decrescente | `return` vs `break`, variabile sentinella |
+| 27 | Successione di Fibonacci | due accumulatori, swap simultaneo `a, b = b, a+b` |
+| 28 | Quadrato di Asterischi | cicli annidati, n² iterazioni, `fmt.Println()` per newline |
+| 29 | Quadrato Righe Alterne (2 simboli) | separazione responsabilità, `%2` per alternanza |
+| 30 | Quadrato Righe Alterne (3 simboli) | `%3` con tre resti distinti, no sovrapposizioni |
+| 31 | Analisi delle Lettere | `for range`, `rune` vs `byte`, costanti letterali vs magic number |
+| 32 | Trasformazione Maiuscolo/Minuscolo | aritmetica ASCII `±32`, scelte progettuali consapevoli |
+| 33 | Parola Palindroma | `[]rune` per Unicode, flag booleano, `break` al primo mismatch |
+| 34 | Triangoli Rettangoli | `strings.Repeat`, divide et impera, separazione in parti logiche |
 
 ## Stack
 
