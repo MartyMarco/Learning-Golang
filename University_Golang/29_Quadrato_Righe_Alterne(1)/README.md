@@ -1,4 +1,4 @@
-# 29 - Quadrato con Righe Alterne
+# 29 - Quadrato con Righe Alterne (1)
 
 ## Testo dell'esercizio
 Scrivere un programma che legga da standard input un numero intero n e stampi un quadrato di n righe alternando righe di `*` e righe di `+`, intervallati da spazi.
