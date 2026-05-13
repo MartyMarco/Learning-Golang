@@ -1,7 +1,7 @@
-<p align="center">
+<p align>
   <img src="golang_imag2.png" width="100%" />
 </p>
-<div align="center">
+<div align>
   
 # Learning-Golang
 
