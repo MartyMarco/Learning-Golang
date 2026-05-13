@@ -18,7 +18,7 @@ Learning-Golang/
 Ogni esercizio ha la propria cartella numerata con il seguente contenuto:
 
 ```
-XX_NomeEsercizio/
+XX_Nome_Esercizio/
 ├── nomefile.go    ← il mio codice con commenti
 └── README.md      ← testo dell'esercizio, output di esempio, concetti usati e note personali
 ```
