@@ -6,7 +6,7 @@ Scrivere un programma che legga da standard input una sequenza di numeri reali s
 ## Esecuzione
 
 ```bash
-go run medie.go
+go run media.go
 ```
 
 ## Esempio di output
