@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="golang_imag.png" width="100%" />
+</p>
+<div align="center">
+  
 # Learning-Golang
 
 Repository che documenta il mio percorso di apprendimento del linguaggio **Go (Golang)**.
